@@ -74,26 +74,26 @@ CineChamp sigue el patrón **Modelo–Vista–Controlador (MVC)** para mantener 
 - React Hooks + Context → estado global de usuario e interfaz reactiva.
 
 ---
-
 ## 🗂️ Estructura del proyecto
 
+```text
 cineChamp/
-├─ cinechamp/ # Frontend (React + TS)
-│ ├─ components/ # Componentes reutilizables (cards, modals, etc.)
-│ ├─ pages/ # Páginas principales (Home, Perfil, Reseñas, etc.)
-│ ├─ services/ # Conexiones API y hooks personalizados
-│ └─ assets/ # Imágenes y estilos
+├─ cinechamp/              # Frontend (React + TS)
+│  ├─ components/          # Componentes reutilizables (cards, modals, etc.)
+│  ├─ pages/               # Páginas principales (Home, Perfil, Reseñas, etc.)
+│  ├─ services/            # Conexiones API y hooks personalizados
+│  └─ assets/              # Imágenes y estilos
 │
-├─ server/ # Backend (Node + Express)
-│ ├─ controllers/ # Lógica de negocio
-│ ├─ models/ # Esquemas y conexión a la BD
-│ ├─ routes/ # Rutas REST
-│ └─ middleware/ # Autenticación, validaciones
+├─ server/                 # Backend (Node + Express)
+│  ├─ controllers/         # Lógica de negocio
+│  ├─ models/              # Esquemas y conexión a la BD
+│  ├─ routes/              # Rutas REST
+│  └─ middleware/          # Autenticación, validaciones
 │
-├─ iconos/ # Iconografía y recursos visuales
-├─ docs/ # Documentación y materiales de apoyo
-└─ cinechamp.sql # Script de base de datos
-
+├─ iconos/                 # Iconografía y recursos visuales
+├─ docs/                   # Documentación y materiales de apoyo
+└─ cinechamp.sql           # Script de base de datos
+```
 ---
 ## 🧠 Arquitectura
 
