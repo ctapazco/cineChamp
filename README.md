@@ -86,9 +86,8 @@ El proyecto sigue el patrón **Modelo–Vista–Controlador (MVC)** para garanti
 
 ## 📄 Documentación técnica
 
-Puedes consultar el documento completo del proyecto en formato PDF aquí:
-
-👉 [Ver documentación completa](./docs/Xarxa%20social%20per%20aficionats%20al%20cine.pdf)
+Puedes consultar el documento completo del proyecto aquí:  
+👉 [Ver documentación (PDF)](./Xarxa%20social%20per%20aficionats%20al%20cine.pdf)
 
 ---
 
