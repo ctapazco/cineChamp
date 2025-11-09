@@ -1,5 +1,3 @@
-![CineChamp Banner](./cinechamp.png)
-
 <div align="center">
 
 # 🎬 CineChamp
