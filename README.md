@@ -80,16 +80,18 @@ El proyecto sigue el patrón **Modelo–Vista–Controlador (MVC)** para garanti
 <img width="733" height="506" alt="image" src="https://github.com/user-attachments/assets/307282a2-2ffa-474a-a850-f08c49e0f76b" />
 
 
-<div align="center">
-
-![Pantalla principal](./assets/perfil-usuario.png)
-![Búsqueda de contenido](./assets/busqueda.png)
-![Detalle de película](./assets/detalle-pelicula.png)
-![Sistema de logros](./assets/logros.png)
-
 </div>
 
 ---
+
+## 📄 Documentación técnica
+
+Puedes consultar el documento completo del proyecto en formato PDF aquí:
+
+👉 [Ver documentación completa](./docs/Xarxa%20social%20per%20aficionats%20al%20cine.pdf)
+
+---
+
 
 ## 🧰 Instalación y ejecución
 
