@@ -1,4 +1,4 @@
-![CineChamp Banner](./docs/banner-cinechamp.png)
+![CineChamp Banner](./cinechamp.png)
 
 <div align="center">
 
